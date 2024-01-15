@@ -16,6 +16,11 @@
     "@babel/core": "^7.23.7",
     "@babel/node": "^7.22.19",
     "@babel/preset-env": "^7.23.8",
+    "eslint": "^8.56.0",
     "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "oracledb": "^6.3.0"
   }
 }
